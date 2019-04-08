@@ -1,0 +1,107 @@
+
+
+body {
+background-image: url("../images/cool-background.png");
+background-repeat: no-repeat;
+background-attachment: fixed;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;
+font-family: 'Orbitron', sans-serif;
+}
+
+
+
+p{
+  margin: auto;
+}
+
+.charecter {
+  position: relative;
+}
+
+.text-block1 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: white;
+  color: black;
+  width: 100%;
+  text-align: center;
+}
+
+.text-block2 {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: white;
+  color: black;
+  width: 100%;
+  text-align: center;
+
+}
+
+.text-block1C {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: green;
+  color: black;
+  width: 100%;
+  text-align: center;
+}
+
+.text-block2C {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: green;
+  color: black;
+  width: 100%;
+  text-align: center;
+
+}
+
+.text-block1A {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: red;
+  color: black;
+  width: 100%;
+  text-align: center;
+}
+
+.text-block2A {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: red;
+  color: black;
+  width: 100%;
+  text-align: center;
+
+}
+
+.text-block1D {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+.text-block2D {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  width: 100%;
+  text-align: center;
+
+}
