@@ -246,7 +246,7 @@ function attack() {
                     $('#gameProgress').html("You bet all the dark heros!! YOU WON");
                 }
                 else {
-                    $('#gameProgress').html("catwoman is Defeted Please choose another Enime");
+                    $('#gameProgress').html("Superman is Defeted Please choose another Enime");
                 }
             }
             // Attack Charecter
@@ -275,7 +275,7 @@ function attack() {
                     $('#gameProgress').html("You bet all the dark heros!! YOU WON");
                 }
                 else {
-                    $('#gameProgress').html("catwoman is Defeted Please choose another Enime");
+                    $('#gameProgress').html("Cyclops is Defeted Please choose another Enime");
                 }
             }
             // Attack Charecter
